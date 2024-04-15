@@ -29,11 +29,11 @@ public class Animal {
         this.id = id;
     }
 
-    public String getbreed() {
+    public String getBreed() {
         return breed;
     }
 
-    public void setbreed(String breed) {
+    public void setBreed(String breed) {
         this.breed = breed;
     }
 
